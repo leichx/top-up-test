@@ -31,7 +31,10 @@ To get started with the Top-Up Application, follow these steps:
     flutter run
     ```
 
+
 ## Images
 
-![Simulator Screenshot Top-Up Test](images/Simulator-Screenshot-top-up-test.png)
-![Simulator Screenshot Top-Up Test History](images/Simulator-Screenshot-top-up-test-history.png)
+<p float="left">
+  <img src="images/Simulator-Screenshot-top-up-test.png" alt="Simulator Screenshot Top-Up Test" width="300" />
+  <img src="images/Simulator-Screenshot-top-up-test-history.png" alt="Simulator Screenshot Top-Up Test History" width="300" />
+</p>
