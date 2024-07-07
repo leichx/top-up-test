@@ -21,7 +21,7 @@ class CurrentUserCubit extends Cubit<CurrentUserState> {
     nickname: "TomTom",
     phone: "+971-50-1234567",
     isVerified: true,
-    accountBalance: 101,
+    accountBalance: 550,
     activeBeneficiaries: 0,
     createdAt: DateTime.parse("2025-03-01T00:00:00.000Z"),
   );
